@@ -2,7 +2,7 @@
 🌱 I'm currently pursuing DevOps
 # My GitHub Repository
 
-# akashlandge07/README.md
+# Akash-landge/README.md
 
 ## ☎️ Contact me
 - [Gmail](alandge9673@gmail.com)
