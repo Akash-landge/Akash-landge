@@ -2,7 +2,7 @@
 🌱 I'm currently pursuing DevOps
 # My GitHub Repository
 
-# Akash-landge/README.md
+# jay shree ram/README.md
 
 Hi 👋, I'm Akash Landge from Pune  
 🌱 I'm currently pursuing DevOps
