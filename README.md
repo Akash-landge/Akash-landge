@@ -13,7 +13,7 @@
 
 If you have any questions or need further assistance, feel free to contact me at:
 
-- **Gmail**: [alandge9673@gmail.com]
+- **Gmail**: alandge9673@gmail.com
 
   
 <!---
