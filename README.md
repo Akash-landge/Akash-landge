@@ -1,19 +1,33 @@
 <h1 align= 'center'>- 👋 Hi, I’m @Akash-landge </h1>
-- 🌱 I’m currently learning Devops
+🌱 I'm currently pursuing DevOps
 # My GitHub Repository
 
-## Tools I Use
+# akashlandge07/README.md
 
-1. **Docker**: Containerization platform to build, ship, and run distributed applications.
-2. **Jenkins**: Continuous Integration and Continuous Delivery server to automate the building, testing, and deployment of applications.
-3. **Git**: Version control system to track changes in source code during software development.
-4. **AWS Tools**: Suite of tools and services provided by Amazon Web Services for cloud computing, storage, and deployment.
+## ☎️ Contact me
 
-## Contact Information
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Instagram](https://www.instagram.com/your-instagram-profile)
+- [Gmail](mailto:your-email@gmail.com)
 
-If you have any questions or need further assistance, feel free to contact me at:
+## Tools:
 
-- **Gmail**: alandge9673@gmail.com
+- **Operating Systems**: Linux, Ubuntu
+- **Cloud Platforms**: AWS
+- **Version Control**: Git, GitHub
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins
+- **Infrastructure as Code (IaC)**: Terraform, Ansible
+
+## Databases & Monitoring
+
+- **Databases**: PostgreSQL, MongoDB
+- **Monitoring**: Prometheus
+
+## Projects
+
+- **[devops-demo](https://github.com/akashlandge07/devops-demo)**
+
 
   
 <!---
