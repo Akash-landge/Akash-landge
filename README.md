@@ -5,10 +5,7 @@
 # akashlandge07/README.md
 
 ## ☎️ Contact me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Instagram](https://www.instagram.com/your-instagram-profile)
-- [Gmail](mailto:your-email@gmail.com)
+- [Gmail](alandge9673@gmail.com)
 
 ## Tools:
 
