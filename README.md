@@ -23,7 +23,7 @@
 
 ## Projects
 
-- **[devops-demo](https://github.com/akashlandge07/devops-demo)**
+- **[devops-demo](https://github.com/Akash-landge/devops-demo)**
 
 
   
